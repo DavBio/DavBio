@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @DavBio
+👋 Hi, I’m @DavBio,
+
+Software Engineer focused on backend systems, cloud infrastructure, and scalable web applications.
+
+Experienced with Node.js, TypeScript, React/Next.js, PostgreSQL, MongoDB, GraphQL, and AWS.
+
+Currently building production systems and exploring distributed architectures, observability, and backend scalability.
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=DavBio&theme=tokyonight)](https://git.io/streak-stats)
